@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning responsive web design and programming!
 - 🌱 I’m currently learning HTML.
 - 💞️ I’m looking to learn as much as I can.
-- 📫 How to reach me: dtarlini@yahoo.com
+- 📫 How to reach me: dvtarlini1@gmail.com
 
 <!---
 dtarlini/dtarlini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
